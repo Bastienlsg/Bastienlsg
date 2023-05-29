@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/Bastienlsg/Bastienlsg/blob/main/img/cover.png" alt="Profil Lassaigne Bastien" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bastienlsg&show_icons=true&theme=graywhite" alt="Statistiques de Github" />
 </p>
 <p>
   <strong>Bonjour, moi c'est Bastien</strong> étudiant en 3ème année de DevOps!👋 J'ai acquis des compétences dans la conception, le développement, le testing, l'administration et la gestion de projets selon une approche DevOps. Mon objectif est de contribuer à des projets open source pour améliorer mes compétences en développement et partager mes connaissances avec la communauté.
